@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(141, 228, 228);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+.counter-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
+.counter{
+    font-size: 20px;
+    margin-top: 10px;
+    
+}
+
+.fab{
+    color: rgb(7, 43, 41);
+}
